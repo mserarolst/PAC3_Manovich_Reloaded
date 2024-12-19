@@ -47,7 +47,7 @@ En resum, la Narrativa Digital Interactiva amb Intel·ligència Artificial i les
 
 1. **Manovich, Lev.** *(2013) El Software toma el mando. Barcelona: Editorial UOC.
 2. **AI Dungeon.** [https://play.aidungeon.io/](https://play.aidungeon.io/)  
-3. **Refik Anadol.** *Data Painting*. [https://refikanadol.com/works/data-painting/](https://refikanadol.com/works/data-painting/)  
+3. **Refik Anadol.** *Data Painting*. (https://refikanadol.com/works/living-architecture-casa-batllo/) 
 4. **Vorecol.** *Narrativa Interactiva amb IA*. [https://vorecol.com/es/articulos/articulo-analisis-de-la-narrativa-generativa-en-la-creacion-de-experiencias-de-aprendizaje-inmersivas-mediante-ia-197117](https://vorecol.com/es/articulos/articulo-analisis-de-la-narrativa-generativa-en-la-creacion-de-experiencias-de-aprendizaje-inmersivas-mediante-ia-197117)  
 5. **YouTube.** *Vídeo demostratiu de AI Dungeon*. [https://www.youtube.com/watch?v=wUrwTYjFEmw](https://www.youtube.com/watch?v=wUrwTYjFEmw)
 6. **YouTube.** *Vídeo de instal·lacions amb IA*. [https://www.youtube.com/watch?v=UxQDG6WQT5s](https://www.youtube.com/watch?v=UxQDG6WQT5s)  
