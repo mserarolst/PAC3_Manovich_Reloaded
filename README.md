@@ -23,8 +23,8 @@ A més, aquesta forma d'art reflecteix la personalització i la interactivitat, 
 
 ### Recursos Multimèdia
 - [AI Dungeon](https://play.aidungeon.io/)
-- [Article sobre Narrativa Interactiva amb IA](https://www.xataka.com/ciencia/inteligencia-artificial-crea-historias-interactivas)
-- [Vídeo demostratiu de AI Dungeon](https://www.youtube.com/watch?v=exempleAIDungeon)
+- [Article sobre Narrativa Interactiva amb IA](https://vorecol.com/es/articulos/articulo-analisis-de-la-narrativa-generativa-en-la-creacion-de-experiencias-de-aprendizaje-inmersivas-mediante-ia-197117)
+- [Vídeo demostratiu de AI Dungeon](https://www.youtube.com/watch?v=wUrwTYjFEmw)
 
 ## Exemple 2: Instal·lacions Artístiques Generatives amb Intel·ligència Artificial
 ### Descripció
