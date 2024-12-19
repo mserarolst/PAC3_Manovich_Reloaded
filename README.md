@@ -39,3 +39,22 @@ Aquestes instal·lacions són un exemple clar de com l'art i el programari es fu
 ### Recursos Multimèdia
 - [Refik Anadol - Living Architecture Casa Batlló](https://refikanadol.com/works/living-architecture-casa-batllo/)
 - [Vídeo de instal·lacions amb IA](https://www.youtube.com/watch?v=UxQDG6WQT5s)
+
+### Conclusió
+En resum, la Narrativa Digital Interactiva amb Intel·ligència Artificial i les Instal·lacions Artístiques Generatives amb Intel·ligència Artificial són dues maneres molt interessants en què el programari i la tecnologia estan canviant l'art digital. Aquestes novetats no només donen més eines creatives als artistes, sinó que també fan que les experiències siguin més immersives i interactives per a tothom que les gaudeix. Això mostra com el programari es converteix en una part essencial del procés creatiu, tal com ens explica Manovich. Aquestes innovacions reflecteixen perfectament com diferents mitjans es mesclen i com la tecnologia i la cultura interactuen constantment en el món d'avui.
+
+### Referències i Bibliografia
+
+1. **Manovich, Lev.** *The Language of New Media*. MIT Press, 2001.
+2. **AI Dungeon.** [https://play.aidungeon.io/](https://play.aidungeon.io/)  
+   Un joc de rol interactiu que utilitza IA per crear aventures narratives infinites basades en les teves eleccions.
+3. **Refik Anadol.** *Data Painting*. [https://refikanadol.com/works/data-painting/](https://refikanadol.com/works/data-painting/)  
+   Instal·lacions artístiques que combinen dades en directe amb visuals generatius.
+4. **ArtFutura.** *Instal·lacions Generatives amb IA*. [https://www.artfutura.com/noticies/instalaciones-generativas-arte-inteligencia-artificial/](https://www.artfutura.com/noticies/instalaciones-generativas-arte-inteligencia-artificial/)  
+   Articles sobre com la intel·ligència artificial està canviant les instal·lacions artístiques.
+5. **Vorecol.** *Narrativa Interactiva amb IA*. [https://vorecol.com/es/articulos/articulo-analisis-de-la-narrativa-generativa-en-la-creacion-de-experiencias-de-aprendizaje-inmersivas-mediante-ia-197117](https://vorecol.com/es/articulos/articulo-analisis-de-la-narrativa-generativa-en-la-creacion-de-experiencias-de-aprendizaje-inmersivas-mediante-ia-197117)  
+   Informació sobre com la IA està revolucionant la creació d'històries interactives.
+6. **YouTube.** *Vídeo demostratiu de AI Dungeon*. [https://www.youtube.com/watch?v=wUrwTYjFEmw](https://www.youtube.com/watch?v=wUrwTYjFEmw)  
+   Un vídeo que mostra com funciona AI Dungeon i les seves possibilitats narratives.
+7. **YouTube.** *Vídeo de instal·lacions amb IA*. [https://www.youtube.com/watch?v=UxQDG6WQT5s](https://www.youtube.com/watch?v=UxQDG6WQT5s)  
+   Vídeo sobre instal·lacions artístiques generatives amb IA.
