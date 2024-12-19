@@ -37,6 +37,5 @@ Artistes com Refik Anadol fan servir algoritmes d'intel·ligència artificial pe
 Aquestes instal·lacions són un exemple clar de com l'art i el programari es fusionen, un tema que és central en l'obra de Manovich. Utilitzar IA per generar visuals en temps real mostra com el programari pot ser una eina creativa que amplia les possibilitats de l'expressió artística. A més, reflecteix la idea de la personalització i la interactivitat, que són molt importants en la nostra societat digital actual. Segons Manovich, el programari no només és una eina, sinó una part essencial de la creació cultural, i aquestes instal·lacions ho demostren perfectament.
 
 ### Recursos Multimèdia
-- [Refik Anadol - Data Painting](https://refikanadol.com/works/living-architecture-casa-batllo/)
-- [Article sobre instal·lacions generatives](https://www.artfutura.com/noticies/instalaciones-generativas-arte-inteligencia-artificial/)
+- [Refik Anadol - Living Architecture Casa Batlló](https://refikanadol.com/works/living-architecture-casa-batllo/)
 - [Vídeo de instal·lacions amb IA](https://www.youtube.com/watch?v=UxQDG6WQT5s)
