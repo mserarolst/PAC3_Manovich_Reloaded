@@ -39,4 +39,4 @@ Aquestes instal·lacions són un exemple clar de com l'art i el programari es fu
 ### Recursos Multimèdia
 - [Refik Anadol - Data Painting](https://refikanadol.com/works/living-architecture-casa-batllo/)
 - [Article sobre instal·lacions generatives](https://www.artfutura.com/noticies/instalaciones-generativas-arte-inteligencia-artificial/)
-- [Vídeo de instal·lacions amb IA](https://www.youtube.com/watch?v=exempleIA)
+- [Vídeo de instal·lacions amb IA]([https://www.youtube.com/watch?v=exempleIA](https://www.youtube.com/watch?v=UxQDG6WQT5s))
