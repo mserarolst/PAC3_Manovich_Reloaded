@@ -28,6 +28,9 @@ A més, aquesta forma d'art reflecteix la personalització i la interactivitat, 
 ### Descripció
 Artistes com Refik Anadol fan servir algoritmes d'intel·ligència artificial per crear instal·lacions visuals que canvien en temps real basant-se en dades en directe. Aquestes instal·lacions combinen art visual amb programació avançada, oferint una experiència interactiva i en constant evolució. L'IA permet generar patrons visuals complexos que responen a coses com el clima, el moviment de les persones o altres dades en temps real, creant així obres d'art dinàmiques i adaptatives.
 
+[![Reprodueix el vídeo](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+
 ### Anàlisi segons les Ulleres de Manovich
 Aquestes instal·lacions són un exemple clar de com l'art i el programari es fusionen, un tema que és central en l'obra de Manovich. Utilitzar IA per generar visuals en temps real mostra com el programari pot ser una eina creativa que amplia les possibilitats de l'expressió artística. A més, reflecteix la idea de la personalització i la interactivitat, que són molt importants en la nostra societat digital actual. Segons Manovich, el programari no només és una eina, sinó una part essencial de la creació cultural, i aquestes instal·lacions ho demostren perfectament.
 
