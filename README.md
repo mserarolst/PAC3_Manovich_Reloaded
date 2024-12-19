@@ -14,6 +14,8 @@ La Narrativa Digital Interactiva fa servir intel·ligència artificial per crear
 
 Un exemple genial d'aquesta combinació és el projecte AI Dungeon. Aquest projecte utilitza IA per generar aventures narratives infinites basades en les entrades dels jugadors. Això permet una flexibilitat creativa que supera els mètodes tradicionals de narració, incorporant elements que reaccionen en temps real a les accions dels usuaris.
 
+![Refikanadol](aidungeon.png)
+
 ### Anàlisi segons les Ulleres de Manovich
 Des del punt de vista de Manovich, la Narrativa Digital Interactiva és una bona mostra de com la literatura tradicional es combina amb tecnologies de programari avançat. Aquesta fusió canvia dràsticament la manera com creem i consumim històries, fent que el programari sigui una eina clau en el procés creatiu. La capacitat de la IA per adaptar la història segons les interaccions dels usuaris mostra com diferents mitjans es converteixen en un sol mitjà, com descriu Manovich.
 
@@ -28,7 +30,7 @@ A més, aquesta forma d'art reflecteix la personalització i la interactivitat, 
 ### Descripció
 Artistes com Refik Anadol fan servir algoritmes d'intel·ligència artificial per crear instal·lacions visuals que canvien en temps real basant-se en dades en directe. Aquestes instal·lacions combinen art visual amb programació avançada, oferint una experiència interactiva i en constant evolució. L'IA permet generar patrons visuals complexos que responen a coses com el clima, el moviment de les persones o altres dades en temps real, creant així obres d'art dinàmiques i adaptatives.
 
-![Grafica de Resultats](refikanadol.png)
+![Refikanadol](refikanadol.png)
 
 
 ### Anàlisi segons les Ulleres de Manovich
