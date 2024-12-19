@@ -45,16 +45,9 @@ En resum, la Narrativa Digital Interactiva amb Intel·ligència Artificial i les
 
 ### Referències i Bibliografia
 
-1. **Manovich, Lev.** *The Language of New Media*. MIT Press, 2001.
+1. **Manovich, Lev.** *(2013) El Software toma el mando. Barcelona: Editorial UOC.
 2. **AI Dungeon.** [https://play.aidungeon.io/](https://play.aidungeon.io/)  
-   Un joc de rol interactiu que utilitza IA per crear aventures narratives infinites basades en les teves eleccions.
 3. **Refik Anadol.** *Data Painting*. [https://refikanadol.com/works/data-painting/](https://refikanadol.com/works/data-painting/)  
-   Instal·lacions artístiques que combinen dades en directe amb visuals generatius.
-4. **ArtFutura.** *Instal·lacions Generatives amb IA*. [https://www.artfutura.com/noticies/instalaciones-generativas-arte-inteligencia-artificial/](https://www.artfutura.com/noticies/instalaciones-generativas-arte-inteligencia-artificial/)  
-   Articles sobre com la intel·ligència artificial està canviant les instal·lacions artístiques.
-5. **Vorecol.** *Narrativa Interactiva amb IA*. [https://vorecol.com/es/articulos/articulo-analisis-de-la-narrativa-generativa-en-la-creacion-de-experiencias-de-aprendizaje-inmersivas-mediante-ia-197117](https://vorecol.com/es/articulos/articulo-analisis-de-la-narrativa-generativa-en-la-creacion-de-experiencias-de-aprendizaje-inmersivas-mediante-ia-197117)  
-   Informació sobre com la IA està revolucionant la creació d'històries interactives.
-6. **YouTube.** *Vídeo demostratiu de AI Dungeon*. [https://www.youtube.com/watch?v=wUrwTYjFEmw](https://www.youtube.com/watch?v=wUrwTYjFEmw)  
-   Un vídeo que mostra com funciona AI Dungeon i les seves possibilitats narratives.
-7. **YouTube.** *Vídeo de instal·lacions amb IA*. [https://www.youtube.com/watch?v=UxQDG6WQT5s](https://www.youtube.com/watch?v=UxQDG6WQT5s)  
-   Vídeo sobre instal·lacions artístiques generatives amb IA.
+4. **Vorecol.** *Narrativa Interactiva amb IA*. [https://vorecol.com/es/articulos/articulo-analisis-de-la-narrativa-generativa-en-la-creacion-de-experiencias-de-aprendizaje-inmersivas-mediante-ia-197117](https://vorecol.com/es/articulos/articulo-analisis-de-la-narrativa-generativa-en-la-creacion-de-experiencias-de-aprendizaje-inmersivas-mediante-ia-197117)  
+5. **YouTube.** *Vídeo demostratiu de AI Dungeon*. [https://www.youtube.com/watch?v=wUrwTYjFEmw](https://www.youtube.com/watch?v=wUrwTYjFEmw)
+6. **YouTube.** *Vídeo de instal·lacions amb IA*. [https://www.youtube.com/watch?v=UxQDG6WQT5s](https://www.youtube.com/watch?v=UxQDG6WQT5s)  
