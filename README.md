@@ -28,7 +28,7 @@ A més, aquesta forma d'art reflecteix la personalització i la interactivitat, 
 ### Descripció
 Artistes com Refik Anadol fan servir algoritmes d'intel·ligència artificial per crear instal·lacions visuals que canvien en temps real basant-se en dades en directe. Aquestes instal·lacions combinen art visual amb programació avançada, oferint una experiència interactiva i en constant evolució. L'IA permet generar patrons visuals complexos que responen a coses com el clima, el moviment de les persones o altres dades en temps real, creant així obres d'art dinàmiques i adaptatives.
 
-(refikanadol.png)
+![Grafica de Resultats](refikanadol.png)
 
 
 ### Anàlisi segons les Ulleres de Manovich
